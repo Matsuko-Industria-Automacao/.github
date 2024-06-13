@@ -1,4 +1,4 @@
-# Matsuko Industria
+# Matsuko Indústria
 ## Missão
 Como empresa de destaque no setor de coberturas e laminados plásticos, nossa missão é buscar continuamente a melhoria de todos nossos processos, 
 com o objetivo de atender com excelência às demandas de nosso mercado, fornecendo produtos de qualidade com seriedade e transparência, 
